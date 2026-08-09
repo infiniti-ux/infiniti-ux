@@ -1,70 +1,42 @@
-```text
-$ file infiniti
-infiniti: ELF 64-bit LSB pie executable, x86-64, dynamically linked, stripped
-```
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=520&lines=INFINITI;binary+exploitation+%C2%B7+CTF+player+%C2%B7+linux" />
-</p>
-
-<p align="center">
-  <i>"<b>binaries don't lie</b>" — that's why i pwn</i>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&width=320&lines=INFINITI" />
 </p>
 
 ---
 
-## // ABOUT
+## About
 
-CTF player from Indonesia. Pwn first — reversing, web, crypto, and forensics when the challenge demands it. Learning in public, one buffer overflow at a time.
+CTF player from Indonesia. Pwn first — reversing, web, crypto, and forensics when the challenge demands it.
 
-## // EXPORTED SYMBOLS — `readelf -s`
+## Skills
 
-| Symbol | Section | Description |
-|---|---|---|
-| `inf_pwn` | .text | pwntools · pwndbg · gdb |
-| `inf_rev` | .text | Ghidra · x64 assembly |
-| `inf_web` | .text | sqlmap · Burp Suite · steghide/jsteg |
-| `inf_py` | .text | exploit scripting |
-| `inf_linux` | .text | daily Kali driver |
-| `win()` | **UND** | hiding from me, as usual |
-| `heap_rop` | **UND** | resolving… |
+- Binary exploitation — pwntools, pwndbg, gdb
+- Reverse engineering — Ghidra
+- Web exploitation — sqlmap, Burp Suite
+- Steganography — steghide, jsteg
+- Python scripting
+- Linux (Kali)
 
-## // ARSENAL
+## Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/pwntools-0D1117?style=for-the-badge&logo=python&logoColor=00E5FF" />
-  <img src="https://img.shields.io/badge/pwndbg-0D1117?style=for-the-badge&logo=gnu&logoColor=00E5FF" />
-  <img src="https://img.shields.io/badge/Ghidra-0D1117?style=for-the-badge&logoColor=00E5FF" />
-  <img src="https://img.shields.io/badge/sqlmap-0D1117?style=for-the-badge&logo=python&logoColor=00E5FF" />
-</p>
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
+![Bash](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg)
+![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
+![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)
+![Wireshark](https://cdn.simpleicons.org/wireshark/1679A7)
+![Burp Suite](https://cdn.simpleicons.org/burpsuite/FF6F00)
 
-## // SECTION SIZES
+## Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=infiniti&show_icons=true&theme=github_dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=ffffff&bg_color=0D1117" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infiniti&layout=compact&theme=github_dark&hide_border=true&title_color=00E5FF&text_color=ffffff&bg_color=0D1117" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=infiniti&show_icons=true&theme=github_dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=ffffff&bg_color=0D1117)
 
-## // STRINGS | GREP FLAG
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infiniti&layout=compact&theme=github_dark&hide_border=true&title_color=00E5FF&text_color=ffffff&bg_color=0D1117)
 
-```text
-github    → github.com/infiniti
-discord   → infiniti
-tryhackme → active
-ctftime   → soon
-```
+## Contact
 
----
-
-```text
-$ ./infiniti --version
-infiniti 0.1.0 — still learning, still breaking
-```
+- GitHub: github.com/infiniti
+- Discord: infiniti
+- TryHackMe: active
+- CTFtime: soon
