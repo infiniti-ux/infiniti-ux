@@ -6,27 +6,32 @@
 
 ## About
 
-CTF player from Indonesia. Pwn first! reversing, web, crypto, and forensics when the challenge demands it.
+CTF player from Indonesia. Pwn first — reversing, web, crypto, and forensics when the challenge demands it.
 
 ## Skills
 
-- Binary exploitation ~ pwntools, pwndbg, gdb
-- Reverse engineering ~ Ghidra
-- Web exploitation ~ sqlmap, Burp Suite
-- Steganography ~ steghide, jsteg
+- Binary exploitation — pwntools, pwndbg, gdb
+- Reverse engineering — Ghidra
+- Web exploitation — sqlmap, Burp Suite
+- Steganography — steghide, jsteg
 - Python scripting
 - Linux (Kali)
 
 ## Tools
 
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
-![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
-![Bash](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg)
-![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
-![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)
-![Wireshark](https://cdn.simpleicons.org/wireshark/1679A7)
-![Burp Suite](https://cdn.simpleicons.org/burpsuite/FF6F00)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![BlackArch](https://img.shields.io/badge/BlackArch-0A0E14?style=for-the-badge&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CachyOS](https://img.shields.io/badge/CachyOS-3A8BED?style=for-the-badge&logoColor=white)
 
 ## Stats
 
