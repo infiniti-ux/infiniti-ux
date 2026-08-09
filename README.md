@@ -13,6 +13,7 @@ CTF player from Indonesia. Pwn first — reversing, web, crypto, and forensics w
 - Binary exploitation — pwntools, pwndbg, gdb
 - Reverse engineering — Ghidra
 - Web exploitation — sqlmap, Burp Suite
+- Network scanning — nmap
 - Steganography — steghide, jsteg
 - Python scripting
 - Linux (Kali)
@@ -26,12 +27,24 @@ CTF player from Indonesia. Pwn first — reversing, web, crypto, and forensics w
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
+![nmap](https://img.shields.io/badge/nmap-46841C?style=for-the-badge&logo=nmap&logoColor=white)
+![sqlmap](https://img.shields.io/badge/sqlmap-0D1117?style=for-the-badge&logoColor=white)
+![steghide](https://img.shields.io/badge/steghide-0D1117?style=for-the-badge&logoColor=white)
+![jsteg](https://img.shields.io/badge/jsteg-0D1117?style=for-the-badge&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![BlackArch](https://img.shields.io/badge/BlackArch-0A0E14?style=for-the-badge&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![CachyOS](https://img.shields.io/badge/CachyOS-3A8BED?style=for-the-badge&logoColor=white)
+![Hack The Box](https://img.shields.io/badge/Hack_The_Box-0D1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logoColor=white)
 
 ## Stats
 
