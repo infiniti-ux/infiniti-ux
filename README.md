@@ -48,9 +48,9 @@ CTF player from Indonesia. Pwn first — reversing, web, crypto, and forensics w
 
 ## Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=infiniti&show_icons=true&theme=github_dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=ffffff&bg_color=0D1117)
+![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=infiniti&show_icons=true&theme=github_dark&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=ffffff&bg_color=0D1117)
 
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infiniti&layout=compact&theme=github_dark&hide_border=true&title_color=00E5FF&text_color=ffffff&bg_color=0D1117)
+![Top langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=infiniti&layout=compact&theme=github_dark&hide_border=true&title_color=00E5FF&text_color=ffffff&bg_color=0D1117)
 
 ## Contact
 
