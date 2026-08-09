@@ -6,14 +6,14 @@
 
 ## About
 
-CTF player from Indonesia. Pwn first — reversing, web, crypto, and forensics when the challenge demands it.
+CTF player from Indonesia. Pwn first! reversing, web, crypto, and forensics when the challenge demands it.
 
 ## Skills
 
-- Binary exploitation — pwntools, pwndbg, gdb
-- Reverse engineering — Ghidra
-- Web exploitation — sqlmap, Burp Suite
-- Steganography — steghide, jsteg
+- Binary exploitation ~ pwntools, pwndbg, gdb
+- Reverse engineering ~ Ghidra
+- Web exploitation ~ sqlmap, Burp Suite
+- Steganography ~ steghide, jsteg
 - Python scripting
 - Linux (Kali)
 
